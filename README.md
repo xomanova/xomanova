@@ -6,8 +6,8 @@ I'm a developer passionate about cloud infrastructure, gaming, and building robu
 
 ### Infrastructure as Code
 - **[cloudformation-templates](https://github.com/xomanova/cloudformation-templates)** - AWS CloudFormation templates for deploying game servers (CS:GO)
-- **[c-suite](https://github.com/xomanova/c-suite)** - Terraform-based AWS infrastructure featuring WebSockets, API Gateway, Lambda functions, and static frontend hosting
-- **[mmf-guacamole](https://github.com/xomanova/mmf-guacamole)** - Terraform infrastructure project with serverless backend and static frontend
+- **[c-suite](https://github.com/xomanova/c-suite)** - Serverless websocket browser game using AWS API Gateway and Lambda, managed with Terraform Cloud
+- **[mmf-guacamole](https://github.com/xomanova/mmf-guacamole)** - Terraform-based serverless web application with static frontend hosting on AWS
 
 ### Kubernetes & Container Orchestration
 - **[k8s-dev-demo](https://github.com/xomanova/k8s-dev-demo)** - Kubernetes development tutorial demonstrating real-time feedback with remote dependencies
