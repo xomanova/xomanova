@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**xomanova/xomanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer working on cloud infrastructure, gaming, and building robust applications.
 
-Here are some ideas to get you started:
+## 💡 What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud Platforms: AWS (Lambda, API Gateway, CloudFormation, S3, DynamoDB)
+- Infrastructure: Terraform, CloudFormation, Kubernetes
+- Languages: C#, Lua, HTML/CSS, JavaScript
+- Frameworks: .NET/WPF, Serverless Architecture
+- Tools: Git, Docker, Kubernetes
+
+---
+
+*Building scalable cloud solutions, crafting gaming enhancements, and developing desktop applications*
