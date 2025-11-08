@@ -1,15 +1,7 @@
-## Hi there 👋
+## Hi you, it's me! 👋 
 
-I'm a developer working on cloud infrastructure, gaming, and building robust applications.
+Hi, I'm xoma, a passionate 🏋️‍♀️, 🚒, and 👩‍💻 !
 
-## 💡 What I Work With
-
-- Cloud Platforms: AWS (Lambda, API Gateway, CloudFormation, S3, DynamoDB)
-- Infrastructure: Terraform, CloudFormation, Kubernetes
-- Languages: C#, Lua, HTML/CSS, JavaScript
-- Frameworks: .NET/WPF, Serverless Architecture
-- Tools: Git, Docker, Kubernetes
-
----
-
-*Building scalable cloud solutions, crafting gaming enhancements, and developing desktop applications*
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
