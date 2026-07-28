@@ -19,7 +19,7 @@ jobs:
 
           plugin_languages: yes
 
-          # Disabled due upstream plugin crash on null commit author login
+          # Disabled due to upstream plugin crash on null commit author login
           plugin_lines: no
 
           plugin_isocalendar: yes
